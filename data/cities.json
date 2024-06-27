@@ -1,0 +1,52 @@
+{
+  "cities": [
+    {
+      "id": "357f",
+      "cityName": "Castello de la Plana",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-04-16T13:37:30.354Z",
+      "notes": "",
+      "position": {
+        "lat": "40.003830320228154",
+        "lng": "-0.04068374633789063"
+      }
+    },
+    {
+      "id": "22b7",
+      "cityName": "Singapore",
+      "country": "Singapore",
+      "emoji": "🇸🇬",
+      "date": "2024-04-20T09:58:55.958Z",
+      "notes": "visit",
+      "position": {
+        "lat": "1.3326649064987248",
+        "lng": "103.85410308837892"
+      }
+    },
+    {
+      "id": "ae2b",
+      "cityName": "Bacoor",
+      "country": "Philippines (the)",
+      "emoji": "🇵🇭",
+      "date": "2024-04-20T10:03:32.118Z",
+      "notes": "visit",
+      "position": {
+        "lat": "14.45698034896131",
+        "lng": "120.95895767211914"
+      }
+    },
+    {
+      "id": "176d",
+      "cityName": "Castello de la Plana",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-04-23T12:58:26.137Z",
+      "notes": "sad",
+      "position": {
+        "lat": "40.006579667838636",
+        "lng": "-0.06589851422514893"
+      }
+    }
+  ]
+}
